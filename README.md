@@ -69,8 +69,12 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [google-chrome-stable_current_amd64](https://github.com/Landonn14/downloader/tree/main/downloads/google-chrome-stable_current_amd64)
+1. [download](https://github.com/Landonn14/downloader/tree/main/downloads/download)
+
+2. [google-chrome-stable_current_amd64](https://github.com/Landonn14/downloader/tree/main/downloads/google-chrome-stable_current_amd64)
 
 ---

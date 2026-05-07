@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [download](./download)
 - [google-chrome-stable_current_amd64](./google-chrome-stable_current_amd64)
 
 ---
